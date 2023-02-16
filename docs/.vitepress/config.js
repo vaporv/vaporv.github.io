@@ -1,4 +1,4 @@
 export default {
-    title: 'VitePress',
+    title: 'Vaporv\'s Blog',
     description: 'Just playing around.',
 };
