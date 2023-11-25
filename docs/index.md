@@ -1,1 +1,1 @@
-blog.vaporv.net
+RAGE! RAGE! RAGE!
